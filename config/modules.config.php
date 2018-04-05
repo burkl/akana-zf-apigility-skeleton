@@ -24,5 +24,6 @@ return [
     'ZF\\Rest',
     'ZF\\Rpc',
     'ZF\\Versioning',
+    'ZF\Apigility\Documentation\Swagger',
     'Application',
 ];
